@@ -114,7 +114,7 @@ The experimental data and the mathematical model are compared in the figure belo
 
 ### Lift coefficient
 
-The difference between the two curve is due to the idealized assumption of the thin-airfoil theory. The experimental data include also the effects of aerodynamic phenomena and measurament uncertanty.
+The difference between the two curves is due to the idealized assumption of the thin-airfoil theory. The experimental data include also the effects of aerodynamic phenomena and measurament uncertainty.
 
 Therefore, as we can see from the graph, the pre-stall approximation is acceptable for small angles of attack and becomes more relevant as it approaches stall configuration.
 
